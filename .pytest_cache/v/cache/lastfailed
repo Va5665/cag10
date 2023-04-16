@@ -1,0 +1,10 @@
+{
+  "test_amediateka_stream_links.py::TestStatistics::test_statistics": true,
+  "test_amediateka_stream_links.py::TestContent_categ::test_content": true,
+  "test_amediateka_stream_links.py::TestStatistics::TestStatistics::test_statistics": true,
+  "test_amediateka_stream_links.py::TestContent::test_content[0-20-2-18]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content[bad_film0]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content[bad_film1]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content_bad[bad_film0]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content_bad[bad_film1]": true
+}
