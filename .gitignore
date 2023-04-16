@@ -1,0 +1,7 @@
+*results/*.csv/
+.idea/
+venv/
+.venv/
+allure-results/
+tests/results/
+*.log/
