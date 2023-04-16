@@ -6,5 +6,7 @@
   "test_amediateka_stream_links.py::TestContent::test_content[bad_film0]": true,
   "test_amediateka_stream_links.py::TestContent::test_content[bad_film1]": true,
   "test_amediateka_stream_links.py::TestContent::test_content_bad[bad_film0]": true,
-  "test_amediateka_stream_links.py::TestContent::test_content_bad[bad_film1]": true
+  "test_amediateka_stream_links.py::TestContent::test_content_bad[bad_film1]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content_bad_film[bad_film0]": true,
+  "test_amediateka_stream_links.py::TestContent::test_content_bad_film[bad_film1]": true
 }

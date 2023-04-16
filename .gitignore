@@ -1,7 +1,7 @@
-*results/*.csv/
+tesrs/results/*.csv/
 .idea/
 venv/
 .venv/
-allure-results/
-tests/results/
+allure-results/*.json/
+
 *.log/

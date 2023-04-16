@@ -1,4 +1,4 @@
-# Запуск в качестве теста: 
+# Запуск в качестве теста: вставляем токен
 python -m pytest --verbose test_amediateka_stream_links.py -s
 затем      pytest --alluredir=allure-results 
  и затем   allure serve allure-results  
